@@ -1,0 +1,28 @@
+[{
+    "name":"ramesh",
+    "address":"Agra",
+    "password":"ramesh9897",
+    "aadharCardNumber":1234545375498753,
+    "isVoted":false
+},
+{
+    "name":"suresh",
+    "address":"Agra",
+    "password":"suresh9897",
+    "aadharCardNumber":1234545372898753,
+    "isVoted":false,
+    "role":"admin",
+    "age":25
+},
+{
+    "name":"Narendra modi",
+    "age":36,
+    "party":"BJP"
+
+}
+
+]
+
+
+
+
